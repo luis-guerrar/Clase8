@@ -1,3 +1,7 @@
+# Se importa el archivo completo
+import problema1
+# Se importa solo una funcion del archivo
+from alumnos import alumnos
 # Desde este momento iniciaremos el manejo de listas
 
 edad = 12
@@ -23,3 +27,8 @@ if __name__ == '__main__':
     print()
     print(lista1)
     print(lista1[3])
+    print()
+    problema1.sumar_5_enteros()
+    print()
+    alumnos()
+
