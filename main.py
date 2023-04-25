@@ -1,4 +1,6 @@
+# Se importa el archivo completo
 import problema1
+# Se importa solo una funcion del archivo
 from alumnos import alumnos
 # Desde este momento iniciaremos el manejo de listas
 
